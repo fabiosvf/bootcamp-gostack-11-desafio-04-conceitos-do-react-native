@@ -33,6 +33,8 @@
 ---
 
 ## Como executar
+- Prepare o ambiente React Native
+  - [Passo a Passo para Preparar o Ambiente React Native](https://react-native.rocketseat.dev/)
 - Crie uma pasta para o projeto
 - Acesse a pasta
 - Faça o clone do template modelo
