@@ -4,6 +4,7 @@
 ## Sobre
 - Criar uma aplicação na camada Mobile com React Native para consumir a API Back-end Node.js desenvolvida no desafio 02. A aplicação deverá ser capaz de listar e curtir repositórios
   - [Desafio 02 - Conceitos do Node.js](https://github.com/fabiosvf/bootcamp-gostack-11-desafio-02-conceitos-do-node-js)
+- [Instruções para o Desafio](docs/Desafio%2004%20-%20Instru%C3%A7%C3%B5es.pdf)
 
 ---
 
